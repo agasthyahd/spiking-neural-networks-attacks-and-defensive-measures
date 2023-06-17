@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Spiking-Neural-Networks-Attacks-and-Defensive-Measures.iml" filepath="$PROJECT_DIR$/.idea/Spiking-Neural-Networks-Attacks-and-Defensive-Measures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spiking-neural-networks-attacks-and-defensive-measures.iml" filepath="$PROJECT_DIR$/.idea/spiking-neural-networks-attacks-and-defensive-measures.iml" />
     </modules>
   </component>
 </project>
